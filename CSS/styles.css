@@ -1,0 +1,21 @@
+.nav{
+    background-color: darkgrey;
+    padding: 5px;   
+}
+
+.navitem{
+
+    display: inline-block;
+    background-color: white;
+    padding: 15px;
+    width: 150px;
+    text-align: center;
+  }
+
+  .leftelement {
+    width: 29%;
+    background-color: dodgerblue;
+    float:left;
+    height: 800px;
+
+  }
